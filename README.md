@@ -2,7 +2,9 @@
 
 <h1 align="center">Hey there! I'm Loka Kiran Kumar, an aspiring developer from India.</h1>
 <h3 align="center">Welcome to my GitHub repository</h3>
-Currently, I'm diving into the world of Full Stack development and exploring the fascinating domain of Ethical Hacking. It's an exhilarating journey, and I'm constantly learning and expanding my skills in these areas. 💻🔒
+Currently, I'm diving into the world of Full Stack development and exploring the fascinating domain of Ethical Hacking.
+
+It's an exhilarating journey, and I'm constantly learning and expanding my skills in these areas. 💻🔒
 
 If you have any questions or need help with Python, JavaScript, or C programming, feel free to ask me!.Let's tackle those coding challenges together! 💡
 
